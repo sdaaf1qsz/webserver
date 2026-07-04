@@ -5,6 +5,5 @@
            "name": "Właściciel skryptu",
            "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp", "tablicaled"]
         },
-        }
     ]
 }
