@@ -1,1 +1,10 @@
-
+{
+    "table": [     
+        {
+           "id": 10995659572,
+           "name": "Właściciel skryptu",
+           "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp", "tablicaled"]
+        },
+        }
+    ]
+}
