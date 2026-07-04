@@ -5,5 +5,275 @@
            "name": "Właściciel skryptu",
            "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp", "tablicaled"]
         },
+        {
+           "id": 653496867,
+           "name": "ELMASTERO",
+           "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp", "tablicaled"]
+        },
+        {
+            "id": 3045365153,
+            "name": "Klient gabonv2, Płatność 50/50",
+            "access": "pagony"
+        },
+        {
+            "id": 5228638903,
+            "name": "Klient Snorlax, Płatność 50/50",
+            "access": "pagony"
+        },
+        {
+            "id": 6022088392,
+            "name": "Klient patyrur, Płatność elmastero",
+            "access": "pagony"
+        },
+        {
+           "id": 12826304,
+           "name": "Klient Polska RP, Płatność jawi - 50, mastero - 30",
+           "access": ["pagonypolicja", "pagonypsp", "dystynkcjepolicja", "dystynkcjepsp"]
+        },
+        {
+           "id": 2833428465,
+           "name": "Klient sebapro, Płatność jawi - 30",
+           "access": ["pagonypolicja"]
+        },
+        {
+           "id": 532771772,
+           "name": "Klient stalkej, Płatność elmastero - 30",
+           "access": ["pagonypolicja"]
+        },
+        {
+           "id": 5504627,
+           "name": "Klient komorniki, Płatność jawi - 30",
+           "access": ["pagonypolicja"]
+        },
+         {
+           "id": 3045365153,
+           "name": "Klient gabon, Płatność elmastero - 30",
+           "access": ["dystynkcjepsp"]
+        },
+        {
+           "id": 2540614586,
+           "name": "Klient fredi_998, Płatność jawi - 30",
+           "access": ["pagonypolicja"]
+        },
+        {
+           "id": 5091979875,
+           "name": "Klient romaxo67_66871, Płatność jawi - 25",
+           "access": ["pagonypsp"]
+        },
+        {
+           "id": 2679802946,
+           "name": "Klient PavelYT, Płatność elmastero - 30",
+           "access": ["pagonypolicja"]
+        },
+        {
+           "id": 4542994318,
+           "name": "Klient loczeek_96, Płatność jawi - 20",
+           "access": ["dystynkcjepsp"]
+        },
+        {
+           "id": 1265000596,
+           "name": "Klient piesellord, Płatność jawi - 20",
+           "access": ["pagonypolicja"]
+        },
+        {
+           "id": 523495207,
+           "name": "Klient twoiwybranek, Płatność elmastero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 2028581948,
+           "name": "Klient jantulo, Płatność jawi - 50(store credit)",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 5320311457,
+           "name": "Klient mlody)ochotnik2115, Płatność elmastero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 3178531185,
+           "name": "Klient szumiak, Płatność elmastero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 3841667285,
+           "name": "Klient zwierzak0devv__, Płatność elmastero - 20",
+           "access": ["pagonypolicja"]
+        },
+        {
+           "id": 5722694871,
+           "name": "Klient szumiak, Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 977630765,
+           "name": "Klient tobixd, Płatność elmastero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 8600460148,
+           "name": "Klient mr_raxon_1, Płatność jawi - 50 + 20",
+           "access": ["tablicaled", "pagonypolicja"]
+        },
+        {
+           "id": 7182875728,
+           "name": "Klient szczelnik, Płatność elmastero - 30",
+           "access": ["pagonypolicja"]
+        },
+        {
+           "id": 3310011524,
+           "name": "Klient maciejsopolinsk, Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 982446728,
+           "name": "Klient serv._1, Płatność jawi- 20",
+           "access": ["pagonypolicja"]
+        },
+        {
+           "id": 5172368997,
+           "name": "Klient maciejsopolinsk, Płatność elmastero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 1338410098,
+           "name": "Klient miikussek, Płatność elmastero - 30",
+           "access": ["pagonypolicja"]
+        },
+        {
+           "id": 2573994577,
+           "name": "Klient szumi6431, Płatność jawi - 60",
+           "access": ["pagonypsp", "dystynkcjepsp"]
+        },
+        {
+           "id": 4759744471,
+           "name": "Klient ---, Płatność elmastero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 2489648149,
+           "name": "Klient vax49222, Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 4317639768,
+           "name": "Klient dj_kacperek, Płatność elmastero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 34209069,
+           "name": "Klient lubin rp, Płatność elmastero - 30",
+           "access": ["pagonypolicja"]
+        },
+        {
+           "id": 7258987451,
+           "name": "Klient ---, Płatność elmastero - 30",
+           "access": ["pagonypolicja"]
+        },
+        {
+           "id": 3034670233,
+           "name": "Klient hamiltonek, Płatność JAWI - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 4542994318,
+           "name": "Klient loczeek_96, Płatność elmastero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 7643794834,
+           "name": "Klient dextero_zapasowe_1, Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 3593815125,
+           "name": "Klient --, Płatność elmastero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 5774072470,
+           "name": "Klient filip_xxx1., Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 4451616570,
+           "name": "Klient protogenramddr5, Płatność elmastero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 5534887702,
+           "name": "Klient amirkebab0533_22247., Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 347911326,
+           "name": "Klient lxskie_, Płatność elmastero - 50 ",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 3455509821,
+           "name": "Klient zertis_ofc, Płatność elmastero - 50 ",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 2573994577,
+           "name": "Klient ----, Płatność JAWI WYJĄTEK INNY MODEL",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 2280779776,
+           "name": "Klient wegorz1350, Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 5806994758,
+           "name": "Klient ---, Płatność elmsatero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 2303127799,
+           "name": "Klient ---, Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 33399176,
+           "name": "Klient ---, Płatność elmsatero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 1851950309,
+           "name": "Klient ignacy_mv, Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 5561401893,
+           "name": "Klient , Płatność elmastero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 2052357584,
+           "name": "Klient , Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 1663237230,
+           "name": "Klient , Płatność elmastero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 5394747639,
+           "name": "Klient , Płatność jawi - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 1856432768,
+           "name": "Klient , Płatność elmastero - 50",
+           "access": ["tablicaled"]
+        },
+        {
+           "id": 2652801875,
+           "name": "Klient , Płatność jawi - 50",
+           "access": ["tablicaled"]
+        }
     ]
 }
